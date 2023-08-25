@@ -24,17 +24,17 @@ the materials for that week.
   <thead>
     <tr>
       <th></th>
-      <th>Day 1 (23-Jan)</th>
-      <th>Day 2 (25-Jan)</th>
-      <th>Day 3 (27-Jan)</th>
+      <th>Day 1 (28-Aug)</th>
+      <th>Day 2 (30-Aug)</th>
+      <th>Day 3 (1-Sep)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82661007-f96c-473e-8377-af8e015e24f0'>Course intro</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1273cccc-b312-47d4-802a-ae2200fefc22'>Linux, ugrad accounts</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2a133efe-8fdb-4256-8e7a-aea2013f41b5'>Course intro</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3af802fa-3c42-497b-996e-ae230027aea4'>Linux, ugrad accounts</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a42038f-6e6e-43cb-958a-ae230027ad23'>Hello world program in C</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7fc4118-f301-40bb-8693-ae230027ac09'>C basics</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4'>Editors (emacs)</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f332c5e-6ad8-4ff8-a702-ae23002793cf'>Git</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60'>Submission workflow</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7af51c6-fffc-4c79-9e8e-ae230027adb4'>Editors (emacs)</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=24e8b117-753d-4721-a714-ae230027acd3'>Git</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c4f67dd-677c-40d9-8bbc-ae230027ac60'>Submission workflow</a></td>
     </tr>
     <tr>
       <td>Slides</td>
@@ -75,6 +75,8 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+
+<!--
 <button type="button" id="week_2_toggle" class="week_control_button">Week 2 (30-Jan to 3-Feb)</button>
 <div id="week_2" class="collapsible">
 <table>
@@ -759,6 +761,7 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+-->
 <script type="text/javascript">
   // Create and register a click handler for button clicks to expand/contract
   // specified content div

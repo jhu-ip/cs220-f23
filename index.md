@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intermediate Programming, Spring 2023"
+title: "Intermediate Programming, Fall 2023"
 category: "home"
 ---
 

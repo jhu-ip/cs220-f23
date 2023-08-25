@@ -47,20 +47,20 @@ Ali Darvish, Senior Lecturer\
 <a class="external" target="_blank" href="https://www.cs.jhu.edu/~darvish/">https://www.cs.jhu.edu/~darvish/</a>,\
 Office hours: TBD
 
-David Hovemeyer, Associate Teaching Professor\
-<mailto:daveho@cs.jhu.edu>,\
-<a class="external" target="_blank" href="https://www.cs.jhu.edu/~daveho">https://www.cs.jhu.edu/~daveho</a>,\
+Patricio Simari, Senior Lecturer\
+<mailto:psimari2@jhu.edu>,\
+<a class="external" target="_blank" href="https://engineering.jhu.edu/faculty/patricio-simari/">https://sites.google.com/view/patriciosimari/</a>,\
 Office hours: TBD, via zoom (see <a class="external" href="https://piazza.com/jhu/spring2023/en601220/staff">Piazza→Resources→Staff</a> for link)
 
 **Meetings**
 
-Sec 01 (Darvish): MWF 10:00 am – 11:15 am, Maryland 310
+Sec 01 (Simari): MWF 10:00 am – 11:15 am, Maryland 310
 
-Sec 02 (Darvish): MWF 12:00 pm – 1:15 pm, Maryland 110
+Sec 02 (Darvish): MWF 12:00 pm – 1:15 pm, Maryland 310
 
-Sec 03 (Hovemeyer): MWF 1:30 pm – 2:45 pm, Maryland 310
+Sec 03 (Darvish): MWF 1:30 pm – 2:45 pm, Maryland 310
 
-Sec 04 (Hovemeyer): MWF 3:00 pm – 4:15 pm, Maryland 310
+Sec 04 (Simari): MWF 3:00 pm – 4:15 pm, Maryland 110
 
 **Course Assistants**
 
@@ -87,16 +87,15 @@ See the course [website staff page](staff.html).
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-summer22/](https://jhu-ip.github.io/cs220-sp23/).
+    [jhu-ip.github.io/cs220-f23/](https://jhu-ip.github.io/cs220-f23/).
 
 -   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/spring2023/en601220">https://piazza.com/jhu/spring2023/en601220</a>)
+    (<a class="external" target="_blank" href="https://piazza.com/jhu/fall2023/en601220">https://piazza.com/jhu/fall2023/en601220</a>)
     will serve as our primary communication channel. You should sign up
     for Piazza immediately.
 
 -   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
-    for assignment submission, grades and feedback; you will receive an
-    email invitation to this course on Gradescope.
+    for assignment submission, grades and feedback; Entry code is "B2E25Y".
 
 -   Panopto will be used for video distribution.
 
@@ -303,6 +302,8 @@ gradescope and get autograder feedback on them.
 
 **Grading Breakdown**
 
+-   5% - Particpation (physical attendance and active participation)
+
 -   6% - handwritten homework (3 total; due dates vary, will be listed
     on Piazza)
 
@@ -311,11 +312,11 @@ gradescope and get autograder feedback on them.
 
 -   14% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date TBD)
+-   15% - midterm exam (in class, date TBD)
 
--   16% - final coding project (in teams)
+-   15% - final coding project (in teams)
 
--   17% - final exam
+-   15% - final exam
 
 All scores and grader commentary on your homework and project
 submissions, as well as exams, will be available via Gradescope. Please
