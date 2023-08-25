@@ -516,17 +516,7 @@ for students on academic probation and graduating students.
 
 **Deadlines for Adding, Dropping and Withdrawing from Courses**
 
-Students may add a course up to **February 3, 2023** (independent academic
-work such as research may be added until **March 5, 2023**). They may
-drop courses up until **March 5, 2023** provided they remain registered
-for a minimum of 12 credits. Between **March 6, 2023** and **April 14,
-2023** a student may withdraw from a course with a W on their academic
-record. A record of the course will remain on the academic record with a
-W appearing in the grade column to indicate that the student registered
-and then withdrew from the course.
-
-For more information on these and other academic policies, see
-<https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
+You need to be be aware and comply with the deadlines of "add a course", "drop a course". Also, for more information on grading policies and other academic policies, see <https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
 
 ## The Office of Academic Support at JHU
 
