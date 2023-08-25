@@ -60,12 +60,6 @@ the materials for that week.
       <td><a class='external' target='_blank' href='https://www.onlinegdb.com/online_c_compiler'>Online C compiler</a></td>
       <td><a class='external' target='_blank' href='https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf'>Emacs reference card</a><br><a class='external' target='_blank' href='https://www.openvim.com/'>Interactive Vim tutorial</a><br><a class='external' target='_blank' href='https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf'>Git cheatsheet</a></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 </div>
