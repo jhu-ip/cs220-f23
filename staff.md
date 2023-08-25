@@ -57,7 +57,7 @@ category: "staff"
   <img alt="Chloe Donelan" src="{{site.baseurl}}/img/staffpix/chloed.jpg">
   <div class="details">
    <span class="name_and_role">Chloe Donelan</span><br>
-   Email: <a href="mailto:cdonela1@jhu.edu">amisra7@jhu.edu</a><br>
+   Email: <a href="mailto:cdonela1@jhu.edu">cdonela1@jhu.edu</a><br>
   </div>
 </div>
 
