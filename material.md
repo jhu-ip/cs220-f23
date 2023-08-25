@@ -18,15 +18,15 @@ Then add, commit, and push both material.csv and material.md.
 You can click on the header for a specific week to expand or collapse
 the materials for that week.
 
-<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (23-Jan to 27-Jan)</button>
+<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (28-Aug to 1-Sep)</button>
 <div id="week_1" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 1 (23-Jan)</th>
-      <th>Day 2 (25-Jan)</th>
-      <th>Day 3 (27-Jan)</th>
+      <th>Day 1 (28-Aug)</th>
+      <th>Day 2 (30-Aug)</th>
+      <th>Day 3 (1-Sep)</th>
     </tr>
   </thead>
   <tbody>
@@ -69,6 +69,7 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+<!--
 <button type="button" id="week_2_toggle" class="week_control_button">Week 2 (30-Jan to 3-Feb)</button>
 <div id="week_2" class="collapsible">
 <table>
@@ -681,6 +682,7 @@ the materials for that week.
   </tbody>
 </table>
 </div>
+-->
 <script type="text/javascript">
   // Create and register a click handler for button clicks to expand/contract
   // specified content div
