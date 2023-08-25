@@ -23,15 +23,14 @@ category: "staff"
 
 
 <div class="card">
-  <img alt="Hovemeyer photo" src="{{site.baseurl}}/img/staffpix/hovemeyer.jpg">
+  <img alt="Simari photo" src="{{site.baseurl}}/img/staffpix/simari.jpg">
   <div class="details">
-   <span class="name_and_role">David Hovemeyer</span><br>
+   <span class="name_and_role">Patricio Simari</span><br>
    Department of Computer Science<br>
-   Email: <a href="mailto:daveho@cs.jhu.edu">daveho@cs.jhu.edu</a><br>
-   Web: <a class="external" target="_blank" href="https://www.cs.jhu.edu/~daveho/">https://www.cs.jhu.edu/~daveho/</a><br>
-   Office hours: T/Th 1–3pm, via Zoom<br>
-   Check <a class="external" target="_blank" href="https://piazza.com/jhu/summer2022/en601220/staff">Piazza→Resources→Staff</a><br>&nbsp;&nbsp;for Zoom link!
-  </div>
+   Email: <a href="mailto:psimari2@jhu.edu">psimari2@jhu.edu</a><br>
+   Web: <a class="external" target="_blank" href="https://engineering.jhu.edu/faculty/patricio-simari/">https://engineering.jhu.edu/faculty/patricio-simari/</a><br>
+   Office hours: TBD<br>
+   </div>
 </div>
 
 </div>
@@ -55,31 +54,33 @@ category: "staff"
 <div class="card_container">
 
 <div class="card">
-  <img alt="Anika photo" src="{{site.baseurl}}/img/staffpix/anika.jpg">
+  <img alt="Chloe Donelan" src="{{site.baseurl}}/img/staffpix/chloed.jpg">
   <div class="details">
-   <span class="name_and_role">Anika Misra</span><br>
-   Email: <a href="mailto:amisra7@jhu.edu">amisra7@jhu.edu</a><br>
+   <span class="name_and_role">Chloe Donelan</span><br>
+   Email: <a href="mailto:cdonela1@jhu.edu">amisra7@jhu.edu</a><br>
   </div>
+</div>
+
 </div>
 
 <div class="card_container">
 
 <div class="card">
-  <img alt="Mark photo" src="{{site.baseurl}}/img/staffpix/mark.png">
+  <img alt="Aprina Wang" src="{{site.baseurl}}/img/staffpix/aprina.png">
   <div class="details">
-   <span class="name_and_role">Mark Tiavises</span><br>
-   Email: <a href="mailto:mtiavis1@jhu.edu">mtiavis1@jhu.edu</a><br>
+   <span class="name_and_role">Aprina Wang</span><br>
+   Email: <a href="mailto:awang100@jhu.edu">awang100@jhu.edu</a><br>
   </div>
 </div>
 
 </div>
 
-</div>
 
 ## Course Assistants
 
 See the [CA office hours](officehours.html) page for the CA office hours schedule.
 
+<!--
 <div class="card_container">
 
 <div class="card">
