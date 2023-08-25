@@ -516,7 +516,7 @@ for students on academic probation and graduating students.
 
 **Deadlines for Adding, Dropping and Withdrawing from Courses**
 
-You need to be be aware and comply with the deadlines of "add a course", "drop a course". Also, for more information on grading policies and other academic policies, see <https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
+You need to be be aware and comply with the deadlines of "add a course", "drop a course", etc. Also, for more information on grading policies and other academic policies, see <https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/undergraduate-policies/academic-policies/grading-policies/>
 
 ## The Office of Academic Support at JHU
 
