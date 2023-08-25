@@ -360,7 +360,7 @@ the *Computer Science Academic Integrity Policy*:
 > and falsification, lying, facilitating academic dishonesty, and unfair
 > competition. Ignorance of these rules is not an excuse.
 > 
-Academic honesty is required in all work you submit to be graded. Except where the instructor specifies group work, you must solve all homework and programming  assignments without the help of others. For example, you must not look at anyone else’s solutions (including program code) to your homework problems. **This includes AI tools such as, but not limited to, ChatGPT and GitHub Copilot. You may also not seek out solutions from coursework or examinations from previous semesters nor make these solutions available to others.**  However, you may discuss assignment specifications (not solutions) with others to be sure you understand what is required by the assignment.
+Academic honesty is required in all work you submit to be graded. Except where the instructor specifies group work, you must solve all homework and programming  assignments without the help of others. For example, you must not look at anyone else’s solutions (including program code) to your homework problems. This includes AI tools such as, but not limited to, ChatGPT and GitHub Copilot. You may also not seek out solutions from coursework or examinations from previous semesters nor make these solutions available to others. However, you may discuss assignment specifications (not solutions) with others to be sure you understand what is required by the assignment.
 > 
 > If your instructor permits using fragments of source code from outside
 > sources, such as your textbook or on-line resources, you must properly
