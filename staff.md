@@ -66,7 +66,7 @@ category: "staff"
 <div class="card_container">
 
 <div class="card">
-  <img alt="Aprina Wang" src="{{site.baseurl}}/img/staffpix/aprina.png">
+  <img alt="Aprina Wang" src="{{site.baseurl}}/img/staffpix/aprina.jpg">
   <div class="details">
    <span class="name_and_role">Aprina Wang</span><br>
    Email: <a href="mailto:awang100@jhu.edu">awang100@jhu.edu</a><br>
