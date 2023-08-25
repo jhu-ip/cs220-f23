@@ -35,15 +35,3 @@ This page has links to useful resources for the course.
 ### Development tools
 
 * [GDB Cheat Sheet](resources/GDB%20Cheat%20Sheet.pdf) (<a class="external" target="_blank" href="https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf">original version</a>)
-<!--
-## Review materials
-
-Note: the review materials are intended to help you study to reinforce your knowledge
-of concepts, but you should not assume that the types of questions will be exactly
-the same on the actual midterm or final exams.
-
-* [MidtermReview.pdf](resources/MidtermReview.pdf): general midterm review questions, [Solutions](resources/MidtermReview-solutions.pdf)
-* [Midterm-Fall2019.pdf](resources/Midterm-Fall2019.pdf): midterm exam from Fall 2019, [Solutions](resources/Midterm-Fall2019-solutions.pdf)
-* [FinalReview.pdf](resources/FinalReview.pdf): general final exam review questions, [Solutions](resources/FinalReview_SOLUTIONS.pdf)
-* [Final exam review slides](https://docs.google.com/presentation/d/1dugdy1lIwLciuZIQTklIP-8hi-XUv_MJjS_mDqFdA8I/edit#slide=id.p64)
--->
