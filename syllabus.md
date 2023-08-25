@@ -8,7 +8,7 @@ category: "syllabus"
 **Syllabus**\
 **Computer Science EN.601.220**\
 **Intermediate Programming**\
-**Spring 2023 (4 credits, E, in person)**
+**Fall 2023 (4 credits, E, in person)**
 
 *(The instructors reserve the right to make adjustments to this
 syllabus as deemed necessary with notice.)*
@@ -50,7 +50,7 @@ Office hours: TBD
 Patricio Simari, Senior Lecturer\
 <mailto:psimari2@jhu.edu>,\
 <a class="external" target="_blank" href="https://engineering.jhu.edu/faculty/patricio-simari/">https://sites.google.com/view/patriciosimari/</a>,\
-Office hours: TBD, via zoom (see <a class="external" href="https://piazza.com/jhu/spring2023/en601220/staff">Piazza→Resources→Staff</a> for link)
+Office hours: TBD
 
 **Meetings**
 
