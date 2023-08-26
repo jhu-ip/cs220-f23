@@ -78,74 +78,74 @@ category: "staff"
 
 ## Course Assistants
 
-See the [CA office hours](officehours.html) page for the CA office hours schedule.
+See the CA office hours page for the CA office hours schedule.
 
-<!--
+
 <div class="card_container">
 
 <div class="card">
-  <img alt="Aprina photo" src="{{site.baseurl}}/img/staffpix/aprina.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/edmund.jpg">
   <div class="details">
-   <span class="name_and_role">Aprina Wang</span><br>
-   Email: <a href="mailto:awang100@jhu.edu">awang100@jhu.edu</a><br>
+   <span class="name_and_role">Edmund Sumpena</span><br>
+   Email: <a href="mailto:esumpen1@jh.edu">esumpen1@jh.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Qifan photo" src="{{site.baseurl}}/img/staffpix/qifan.png">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/katharine.png">
   <div class="details">
-   <span class="name_and_role">Qifan Sun</span><br>
-   Email: <a href="mailto:qsun17@jhu.edu">qsun17@jhu.edu</a><br>
+   <span class="name_and_role">Katharine Durbin</span><br>
+   Email: <a href="mailto:kdurbin1@jhu.edu">kdurbin1@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Sambhav photo" src="{{site.baseurl}}/img/staffpix/samb.jpeg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/kit.jpeg">
   <div class="details">
-   <span class="name_and_role">Sambhav Chordia</span><br>
-   Email: <a href="mailto:schordi1@jhu.edu">schordi1@jhu.edu</a><br>
+   <span class="name_and_role">Kit Ao</span><br>
+   Email: <a href="mailto:mao2@jhu.edu">mao2@jhu.edu</a><br>
   </div>
 </div>
 
 
 <div class="card">
-  <img alt="Ed photo" src="{{site.baseurl}}/img/staffpix/ed.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/minoo.jpg">
   <div class="details">
-   <span class="name_and_role">Edward Wang</span><br>
-   Email: <a href="mailto:ewang43@jhu.edu">ewang43@jhu.edu</a><br>
+   <span class="name_and_role">Minoo Kim</span><br>
+   Email: <a href="mailto:mkim239@jhu.edu">mkim239@jhu.edu</a><br>
   </div>
 </div>
 <div class="card_container">
 
 <div class="card">
-  <img alt="Sangmin photo" src="{{site.baseurl}}/img/staffpix/sangmin.png">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/prab.png">
   <div class="details">
-   <span class="name_and_role">Sangmin Woo</span><br>
-   Email: <a href="mailto:swoo17@jhu.edu">swoo17@jhu.edu</a><br>
+   <span class="name_and_role">Prabuddha Dastidar</span><br>
+   Email: <a href="mailto:pghoshd1@jhu.edu">pghoshd1@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Laine photo" src="{{site.baseurl}}/img/staffpix/laine.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/tanvi.jpg">
   <div class="details">
-   <span class="name_and_role">Laine Wang</span><br>
-   Email: <a href="mailto:ywang437@jhu.edu">ywang437@jhu.edu</a><br>
+   <span class="name_and_role">Tanvi Ranade</span><br>
+   Email: <a href="mailto:tranade1@jhu.edu">tranade1@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Amir photo" src="{{site.baseurl}}/img/staffpix/amir.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/linda.jpg">
   <div class="details">
-   <span class="name_and_role">Amir Modaressanavi</span><br>
-   Email: <a href="mailto:smodare1@jhu.edu">smodare1@jhu.edu</a><br>
+   <span class="name_and_role">Linda Fan</span><br>
+   Email: <a href="mailto:yfan43@jhu.edu">yfan43@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Caitlyn photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
   <div class="details">
-   <span class="name_and_role">Caitlyn Bernhard</span><br>
-   Email: <a href="mailto:cbernha4@jhu.edu">cbernha4@jhu.edu</a><br>
+   <span class="name_and_role">Yongjae Lee</span><br>
+   Email: <a href="mailto:ylee207@jhu.edu">ylee207@jhu.edu</a><br>
   </div>
 </div>
 
@@ -158,72 +158,83 @@ See the [CA office hours](officehours.html) page for the CA office hours schedul
 </div>
 
 <div class="card">
-  <img alt="Elaine photo" src="{{site.baseurl}}/img/staffpix/elaine.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/Yongjae.jpg">
   <div class="details">
-   <span class="name_and_role">Elaine Zhao</span><br>
-   Email: <a href="mailto:dzhao24@jhu.edu">dzhao24@jhu.edu</a><br>
+   <span class="name_and_role">Yongjae Lee</span><br>
+   Email: <a href="mailto:ylee207@jhu.edu">ylee207@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Katharine Durbin" src="{{site.baseurl}}/img/staffpix/katharine.JPG">
+  <img alt="Katharine Durbin" src="{{site.baseurl}}/img/staffpix/sheila.jpg">
   <div class="details">
-   <span class="name_and_role">Katharine Durbin</span><br>
-   Email: <a href="mailto:kdurbin1@jhu.edu">kdurbin1@jhu.edu</a><br>
+   <span class="name_and_role">Sheila Iyer</span><br>
+   Email: <a href="mailto:siyer20@jhu.edu">siyer20@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Yi Hong photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
   <div class="details">
-   <span class="name_and_role">Yi Hong Liu</span><br>
-   Email: <a href="mailto:yliu380@jhu.edu">yliu380@jhu.edu</a><br>
+   <span class="name_and_role">Zeyn Schweyk</span><br>
+   Email: <a href="mailto:zschwey1@jhu.edu">zschwey1@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Zeya photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
   <div class="details">
-   <span class="name_and_role">Zeya Song</span><br>
-   Email: <a href="mailto:zsong30@jhu.edu">zsong30@jhu.edu</a><br>
+   <span class="name_and_role">Benjamin Chang</span><br>
+   Email: <a href="mailto:bchang26@jhu.edu">bchang26@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Emily photo" src="{{site.baseurl}}/img/staffpix/emily.jpeg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/genevieve.jpeg">
   <div class="details">
-   <span class="name_and_role">Emily Guan</span><br>
-   Email: <a href="mailto:eguan2@jhu.edu">eguan2@jhu.edu</a><br>
+   <span class="name_and_role">Genevieve Koffman</span><br>
+   Email: <a href="mailto:gkoffma1@jhu.edu">gkoffma1@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Bill photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/jinhong.jpg">
   <div class="details">
-   <span class="name_and_role">Bill Chen</span><br>
-   Email: <a href="mailto:jchen363@jh.edu">jchen363@jh.edu</a><br>
+   <span class="name_and_role">Jinhong Ling</span><br>
+   Email: <a href="mailto:jlin177@jhu.edu">jlin177@jhu.edu</a><br>
   </div>
 </div>
 
 <div class="card">
-  <img alt="Ashley photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/dayyan.jpg">
   <div class="details">
-   <span class="name_and_role">Ashley Liu</span><br>
-   Email: <a href="mailto:yliu443@jhu.edu">yliu443@jhu.edu</a><br>
+   <span class="name_and_role">Dayann D’almeida</span><br>
+   Email: <a href="mailto:dkouako1@jhu.edu">dkouako1@jhu.edu</a><br>
   </div>
 </div>
 
 </div>
-<!--
+
 <div class="card_container">
 
 <div class="card">
-  <img alt="NAME photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/oriel.jpg">
   <div class="details">
-   <span class="name_and_role">FIRSTNAME LASTNAME</span><br>
-   Email: <a href="mailto:"></a><br>
+   <span class="name_and_role">Oriel Savir</span><br>
+   Email: <a href="mailto:osavir1@jhu.edu">osavir1@jhu.edu</a><br>
   </div>
 </div>
 
 </div>
--->
+
+<div class="card">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/sofia.jpg">
+  <div class="details">
+   <span class="name_and_role">Sofia Floody</span><br>
+   Email: <a href="mailto:sfloody1@jhu.edu">sfloody1@jhu.edu</a><br>
+  </div>
+</div>
+
+</div>
+
+
