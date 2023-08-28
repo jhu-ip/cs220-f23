@@ -137,15 +137,6 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
-  <div class="details">
-   <span class="name_and_role">Yongjae Lee</span><br>
-   Email: <a href="mailto:ylee207@jhu.edu">ylee207@jhu.edu</a><br>
-  </div>
-</div>
-
-
-<div class="card">
   <img alt="photo" src="{{site.baseurl}}/img/staffpix/Yongjae.jpg">
   <div class="details">
    <span class="name_and_role">Yongjae Lee</span><br>
