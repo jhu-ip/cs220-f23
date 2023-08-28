@@ -60,7 +60,7 @@ Sec 02 (Darvish): MWF 12:00 pm – 1:15 pm, Maryland 310
 
 Sec 03 (Darvish): MWF 1:30 pm – 2:45 pm, Maryland 310
 
-Sec 04 (Simari): MWF 3:00 pm – 4:15 pm, Maryland 110
+Sec 04 (Simari): MWF 3:00 pm – 4:15 pm, Shaffer 303
 
 **Course Assistants**
 
