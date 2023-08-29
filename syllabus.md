@@ -303,7 +303,7 @@ gradescope and get autograder feedback on them.
 **Grading Breakdown**
 
 -   5% - Particpation (physical attendance and active participation)
-
+    - ** You must attend 85% of the classes to receive full attendance credit (i.e., your attendance/participation percentage will be divided by 0.85 and then capped at 100%.) **
 -   6% - handwritten homework (3 total; due dates vary, will be listed
     on Piazza)
 
