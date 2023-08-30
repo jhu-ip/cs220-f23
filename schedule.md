@@ -12,5 +12,5 @@ Unless mentioned otherwise, assignments and projects are due at 11pm (Baltimore 
 on the due date.
 
 -- Assignment/Exam | Date
-## --------------- | ----
+--------------- | ----
 ## [Homework 0](assign/hw0.html) | Due Monday, Sep 11th
