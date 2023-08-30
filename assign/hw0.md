@@ -13,7 +13,7 @@ import remarkMath from 'remark-math'
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, February 3rd by 11pm (Baltimore time).</strong></li>
+<li><strong>Due: Monday, September 11th by 11pm (Baltimore time).</strong></li>
 <li><em>This assignment is worth 20 points.</em></li>
 </ul>
 </div>
@@ -41,7 +41,7 @@ import remarkMath from 'remark-math'
 <div class='admonition caution'>
 <div class='title'>Caution</div>
 <div class='content'>
-<p>You should receive an invitation to the jhu-ip organization and your private repository by <strong>Thursday, January 26th</strong>. If you haven't received it, post privately for all instructors on Piazza.</p>
+<p>You should have received an invitation to the jhu-ip organization and your private repository. If you haven't received it, post privately for all instructors on Piazza.</p>
 </div>
 </div>
 

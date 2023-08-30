@@ -14,7 +14,7 @@ title: Exercise 3-A
 <div class='admonition info'>
 <div class='title'>Info</div>
 <div class='content'>
-<p>If you are new to the course and need a temporary cs account, make a private post on <a href="http://piazza.com/jhu/spring2023/en601220" target="_blank">Piazza</a> to instructors with subject "Request for a cs temp account". You should also do <a href="ex03b.html">Exercise 3-B</a> after you complete Parts 1-4 below.</p>
+<p>If you are new to the course and need a temporary cs account, make a private post on <a href="http://piazza.com/jhu/fall2023/en601220" target="_blank">Piazza</a> to instructors with subject "Request for a cs temp account". You should also do <a href="ex03b.html">Exercise 3-B</a> after you complete Parts 1-4 below.</p>
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Be sure to use your actual email address.
 ### Part 2
 Set up your own personal git repository:
 
-**1.**	You should have received (and accepted) an invitation email to join course Github organization. When you login to your Github, you should be able to see personal repo with the name `2023-spring-student-JHED` where "JHED" is your actual JHED name. This will serve as your private space from here on
+**1.**	You should have received (and accepted) an invitation email to join course Github organization. When you login to your Github, you should be able to see personal repo with the name `2023-fall-student-JHED` where "JHED" is your actual JHED name. This will serve as your private space from here on
 that you will use for your exercises and homeworks. Only you and the course staff have access to your private repo.
 
 You probably need to change to the course organization (i.e. jhu-ip) on the left menu as follows:
