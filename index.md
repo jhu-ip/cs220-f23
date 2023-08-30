@@ -44,5 +44,5 @@ Gradescope and recieve feedback and your work in there. Regrade requests
 can be made and are processed on Gradescope as well. You can join Gradescope course page using the entry code **B2E25Y**.
 
 ## News
-* **Auguest 30** — [HW0](assign/hw0) is posted! 
+* **August 30** — [HW0](assign/hw0) is posted! 
 * **August 28** — Welcome to Intermediate Programming! Check out Week 1 material under "Course Material" tab. 
