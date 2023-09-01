@@ -55,6 +55,13 @@ git config --global user.email you@somewhere.com
 ```
 Be sure to use your actual email address. 
 
+**3.** Type the command:
+```bash
+git config --global credential.helper store
+```
+
+This will make it so that you don't have to keep retyping your password every time you do a git command.
+
 <div class='admonition info'>
 <div class='title'>Info</div>
 <div class='content'>
