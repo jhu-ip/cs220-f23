@@ -18,8 +18,8 @@ category: "staff"
    Email: <a href="mailto:darvish@jhu.edu">darvish@jhu.edu</a><br>
    Web: <a class="external" target="_blank" href="https://www.cs.jhu.edu/~darvish/">https://www.cs.jhu.edu/~darvish/</a><br>
    Office hours: Monday 7:30pm-8:30pm (Zoom) & <br> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friday 9:45am-10:45am (Zoom)<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or by appointment<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friday 9:45am-10:45am (Zoom)<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or by appointment<br>
    Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/darvish">https://wse.zoom.us/my/darvish</a>
   </div>
 </div>
