@@ -31,7 +31,8 @@ category: "staff"
    Department of Computer Science<br>
    Email: <a href="mailto:psimari2@jhu.edu">psimari2@jhu.edu</a><br>
    Web: <a class="external" target="_blank" href="https://engineering.jhu.edu/faculty/patricio-simari/">https://engineering.jhu.edu/faculty/patricio-simari/</a><br>
-   Office hours: TBD
+   Office hours: Tuesday & Thursday 9:00-9:50am (Zoom)<br>
+   Zoom: <a class="external" target="_blank" href="https://wse.zoom.us/my/pdsimari">https://wse.zoom.us/my/pdsimari</a>
   </div>
 </div>
 
