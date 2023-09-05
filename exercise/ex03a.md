@@ -107,7 +107,7 @@ you should use the <code>https</code> Github URL, not the <code>ssh</code> Githu
 ### Part 3
 Create a file on ugrad and add it to the repository:
 
-**1.**	Use `cd` to move into your _2023-spring-student-JHED_ folder (your cloned copy of your repository).  Use `pwd` to check that you are in the right place.
+**1.**	Use `cd` to move into your _2023-fall-student-JHED_ folder (your cloned copy of your repository).  Use `pwd` to check that you are in the right place.
 
 **2.**	Use a text editor (_emacs_ or _vim_) to create a new text file called `README` there. Put _your name, JHED, class year, and major(s)/minor(s)_ in your _README_.
 
@@ -151,7 +151,7 @@ Prepare your files as if you were asked to submit them to Gradescope for a homew
 
 **3.**	Use `cd ~` or just `cd` to move into your home directory.
 
-**4.**	Now move (the command `mv` means move, rather than copy) your _.zip_ file to your current location using the following command: `mv 2023-spring-student-JHED/ex03.zip .`. Note that the `.` in the command above indicates that the desired destination is your current working directory.
+**4.**	Now move (the command `mv` means move, rather than copy) your _.zip_ file to your current location using the following command: `mv 2023-fall-student-JHED/ex03.zip .`. Note that the `.` in the command above indicates that the desired destination is your current working directory.
 
 **5.**	Check to make sure your _.zip_ file contains the right files with `unzip -l` (this says to list the files that would come out if you were to unzip the bundle) as indicated below: `unzip -l ex03.zip`. This will cause a list of the files and directories in your zip file to be displayed on the screen.  It is your chance to double-check that you have included everything.  If you wanted to actually unzip your bundled files (though you do not need to do so now), you could use the unzip command as above, but without the `-l` flag.  You will often want to unzip your file in a folder which is different than the one where you created it, to avoid overwriting your original _README_ and _gitlog.txt_ files.
 
