@@ -134,7 +134,7 @@ the materials for that week.
     -->
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day06_fileio_assertion_math.pdf'>File I/O, assert, math functions</a><br><a href='slides/day06_functions_command_line_arguments.pdf'>Writing functions, command line arguments</a><br><td>
+      <td><a href='slides/day06_fileio_assertion_math.pdf'>File I/O, assert, math functions</a><br><a href='slides/day06_functions_command_line_arguments.pdf'>Writing functions, command line arguments</a><br></td>
       <td><a href='slides/day07_function_declaration.pdf'>Function declarations</a><br><a href='slides/day07_passing_arrays_to_functions.pdf'>Passing arrays to functions</a><br><a href='slides/day07_recursion.pdf'>Recursion</a></td>
       <td><a href='slides/day08_separate_compilation.pdf'>Separate compilation</a><br><a href='slides/day08_makefiles.pdf'>Makefiles</a><br><a href='slides/day08_header_guards.pdf'>Header guards</a></td>
     </tr>
