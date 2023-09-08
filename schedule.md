@@ -14,3 +14,5 @@ on the due date.
 Assignment/Exam | Date
 --------------- | ----
 [Homework 0](assign/hw0.html) | Due Monday, Sep 11th
+[Homework 1](assign/hw1) | Due Friday, Sep 15th
+
