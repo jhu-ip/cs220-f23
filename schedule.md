@@ -15,4 +15,5 @@ Assignment/Exam | Date
 --------------- | ----
 [Homework 0](assign/hw0.html) | Due Monday, Sep 11th
 [Homework 1](assign/hw1) | Due Friday, Sep 15th
+[Homework 2](https://www.gradescope.com/courses/584905/assignments/3340478) | Due Wed, Sep 20th
 
