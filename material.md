@@ -184,13 +184,13 @@ the materials for that week.
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day9.html'>Day 9</a></td>
+      <td><a href='questions/day09.html'>Day 9</a></td>
       <td><a href='questions/day10.html'>Day 10</a></td>
       <td><a href='questions/day11.html'>Day 11</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex9.html'>Exercise 9</a></td>
+      <td><a href='exercise/ex09.html'>Exercise 9</a></td>
       <td><a href='exercise/ex10.html'>Exercise 10</a></td>
       <td><a href='exercise/ex11.html'>Exercise 11</a></td>
     </tr>
