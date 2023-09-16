@@ -196,9 +196,9 @@ the materials for that week.
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
-      <td></td>
-      <td><a class='external' target='_blank' href='https://www.youtube.com/watch?v=5VnDaHBi8dM'>Binky the Pointer (Video)</a></td>
       <td><a class='external' target='_blank' href='https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf'>GDB Cheat Sheet</a></td>
+      <td><a class='external' target='_blank' href='https://www.youtube.com/watch?v=5VnDaHBi8dM'>Binky the Pointer (Video)</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
