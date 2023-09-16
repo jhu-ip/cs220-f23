@@ -129,18 +129,12 @@ the materials for that week.
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbef007b-88a8-4e42-bcc4-ae230027a8f4'>Function declarations</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c18158bd-cf31-48c4-a2c0-ae230027a87e'>Passing arrays to functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12215376-94e9-48dd-8d5a-ae230027937e'>Recursion</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76660996-f221-4bda-85bf-ae230027aa0b'>Separate compilation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=956ae811-74a5-48f2-8d73-ae230027a9b0'>Makefiles</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948'>Header guards</a></td>
     </tr>
-    <!--
-    <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824'>Multidimensional arrays, gdb</a></td>
-    -->
     <tr>
       <td>Slides</td>
       <td><a href='slides/day06_fileio_assertion_math.pdf'>File I/O, assert, math functions</a><br><a href='slides/day06_functions_command_line_arguments.pdf'>Writing functions, command line arguments</a><br></td>
       <td><a href='slides/day07_function_declaration.pdf'>Function declarations</a><br><a href='slides/day07_passing_arrays_to_functions.pdf'>Passing arrays to functions</a><br><a href='slides/day07_recursion.pdf'>Recursion</a></td>
       <td><a href='slides/day08_separate_compilation.pdf'>Separate compilation</a><br><a href='slides/day08_makefiles.pdf'>Makefiles</a><br><a href='slides/day08_header_guards.pdf'>Header guards</a></td>
     </tr>
-    <!--
-    <td><a href='slides/day09_multidimensional_arrays_gdb.pdf'>Multidimensional arrays, gdb</a></td>
-    -->
     <tr>
       <td>Recap<br>Questions</td>
       <td><a href='questions/day06.html'>Day 6</a></td>
@@ -159,64 +153,64 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <!--
-    <td><a class='external' target='_blank' href='https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf'>GDB Cheat Sheet</a></td>
-    -->
+    
   </tbody>
 </table>
 </div>
-<!--
-<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (13-Feb to 17-Feb)</button>
+
+<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (18-Sep to 22-Sep)</button>
 <div id="week_4" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 10 (13-Feb)</th>
-      <th>Day 11 (15-Feb)</th>
-      <th>Day 12 (17-Feb)</th>
+      <th>Day 9 (18-Sep)</th>
+      <th>Day 10 (20-Sep)</th>
+      <th>Day 11 (22-Sep)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824'>Multidimensional arrays, gdb</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7dd96f56-4676-4f7c-913d-ae230027a7a3'>Pointers</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746'>Dynamic Memory Allocation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2'>Valgrind</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d83163b7-7827-4bca-a6ca-ae2300279303'>Pointer Arithmetic</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b124364-dcca-4e9b-b276-ae23002792a9'>Dynamic 2-D Arrays, Pointers and Const</a></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <td><a href='slides/day09_multidimensional_arrays_gdb.pdf'>Multidimensional arrays, gdb</a></td>
       <td><a href='slides/day10_pointers.pdf'>Pointers</a></td>
       <td><a href='slides/day11_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a><br><a href='slides/day11_valgrind.pdf'>Valgrind</a></td>
-      <td><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
+      <td><a href='questions/day9.html'>Day 9</a></td>
       <td><a href='questions/day10.html'>Day 10</a></td>
       <td><a href='questions/day11.html'>Day 11</a></td>
-      <td><a href='questions/day12.html'>Day 12</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
+      <td><a href='exercise/ex9.html'>Exercise 9</a></td>
       <td><a href='exercise/ex10.html'>Exercise 10</a></td>
       <td><a href='exercise/ex11.html'>Exercise 11</a></td>
-      <td><a href='exercise/ex12.html'>Exercise 12</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
+      <td></td>
       <td><a class='external' target='_blank' href='https://www.youtube.com/watch?v=5VnDaHBi8dM'>Binky the Pointer (Video)</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day10_sec03.pdf'>Day 10 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day10_sec04.pdf'>Day 10 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day11_sec03.pdf'>Day 11 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day11_sec04.pdf'>Day 11 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day12_sec03.pdf'>Day 12 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day12_sec04.pdf'>Day 12 Notes (Sec 04)</a></td>
+      <td><a class='external' target='_blank' href='https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf'>GDB Cheat Sheet</a></td>
     </tr>
   </tbody>
 </table>
 </div>
+
+<!-- <td><a class='external' target='_blank' href=''>Pointer Arithmetic</a><br><a class='external' target='_blank' href=''>Dynamic 2-D Arrays, Pointers and Const</a></td>
+
+<td><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
+
+-->
+
+<!--
 <button type="button" id="week_5_toggle" class="week_control_button">Week 5 (20-Feb to 24-Feb)</button>
 <div id="week_5" class="collapsible">
 <table>
