@@ -9,7 +9,7 @@ title: Homework 3
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><strong>Due: Friday, February 24th at 11pm EST (Baltimore time).</strong></li>
+<li><strong>Due: Wed, September 27th at 11pm EST (Baltimore time).</strong></li>
 <li><em>This assignment is worth 60 points.</em></li>
 </ul>
 </div>
@@ -34,11 +34,8 @@ title: Homework 3
 </div>
 </div>
 
-*Update 2/19*: Clarified that error messages should be printed
+Note 1: Note that error messages should be printed
 to `stderr`. See the [Program Behavior](#program-behavior) section.
-
-*Update 2/23*: Updated language on whether additional functions
-are required.
 
 ## Overview
 
@@ -436,7 +433,7 @@ progress towards a base case.
 ### Provided files
 
 Start with the template Makefile, source files, and header file in the
-public repo: `cs220-sp23-public/homework/hw3/`.
+public repo: `cs220-f23-public/homework/hw3/`.
 
 - The Makefile contains some, but not all, of the needed target
   definitions. The definitions provided are enough for you to build the
