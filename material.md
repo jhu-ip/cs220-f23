@@ -198,54 +198,46 @@ the materials for that week.
       <td>Additional<br>Resources</td>
       <td><a class='external' target='_blank' href='https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf'>GDB Cheat Sheet</a></td>
       <td><a class='external' target='_blank' href='https://www.youtube.com/watch?v=5VnDaHBi8dM'>Binky the Pointer (Video)</a></td>
-      <td></td>
+      <td><code>valgrind --leak-check=full --show-leak-kinds=all</code></td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<!-- <td><a class='external' target='_blank' href=''>Pointer Arithmetic</a><br><a class='external' target='_blank' href=''>Dynamic 2-D Arrays, Pointers and Const</a></td>
-
-<td><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
-
--->
-
-<!--
-<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (20-Feb to 24-Feb)</button>
+<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (25-Sep to 29-Sep)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 13 (20-Feb)</th>
-      <th>Day 14 (22-Feb)</th>
-      <th>Day 15 (24-Feb)</th>
+      <th>Day 12 (25-Sep)</th>
+      <th>Day 13 (27-Sep)</th>
+      <th>Day 14 (29-Sep)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663'>Lifetime/Scope</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4'>Structs</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7'>Random number generation</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=6626bc1f-ffd6-4245-91cd-ae230027a13e'>Pointer Arithmetic</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=38c9ad6c-baf9-4248-ae3c-ae230027a2f7'>Dynamic 2-D Arrays, Pointers and Const</a></td><td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663'>Lifetime/Scope</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4'>Structs</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7'>Random number generation</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f'>Binary file I/O</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246'>Bitwise operations</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af'>Number representation,<br>type conversion/casting</a></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <td><a href='slides/day12_pointer_arithmetic.pdf'>Pointer Arithmetic</a><br><a href='slides/day12_more_pointers_dynamic_2d_arrays.pdf'>Dynamic 2-D Arrays, Pointers and Const</a></td>
       <td><a href='slides/day13_lifetime_scope.pdf'>Lifetime/Scope</a><br><a href='slides/day13_struct_type.pdf'>Structs</a><br><a href='slides/day13_random_numbers.pdf'>Random number generation</a></td>
       <td><a href='slides/day14_binary_file_io.pdf'>Binary file I/O</a><br><a href='slides/day14_bitwise_operations.pdf'>Bitwise operations</a></td>
-      <td><a href='slides/day15_number_rep_type_conversions.pdf'>Number representation,<br>type conversion/casting</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
+      <td><a href='questions/day12.html'>Day 12</a></td>
       <td><a href='questions/day13.html'>Day 13</a></td>
       <td><a href='questions/day14.html'>Day 14</a></td>
-      <td><a href='questions/day15.html'>Day 15</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
+      <td><a href='exercise/ex12.html'>Exercise 12</a></td>
       <td><a href='exercise/ex13.html'>Exercise 13</a></td>
       <td><a href='exercise/ex14.html'>Exercise 14</a></td>
-      <td><a href='exercise/ex15.html'>Exercise 15</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -253,15 +245,16 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day13_sec03.pdf'>Day 13 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day13_sec04.pdf'>Day 13 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day14_sec03.pdf'>Day 14 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day14_sec04.pdf'>Day 14 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day15_sec03.pdf'>Day 15 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day15_sec04.pdf'>Day 15 Notes (Sec 04)</a></td>
-    </tr>
   </tbody>
 </table>
 </div>
+
+<!--
+<td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af'>Number representation,<br>type conversion/casting</a></td>
+
+<td><a href='slides/day15_number_rep_type_conversions.pdf'>Number representation,<br>type conversion/casting</a></td>
+
+
 <button type="button" id="week_6_toggle" class="week_control_button">Week 6 (27-Feb to 3-Mar)</button>
 <div id="week_6" class="collapsible">
 <table>
