@@ -296,62 +296,53 @@ the materials for that week.
 </table>
 </div>
 
-<!--
-<td><a class='external' target='_blank' href=''>More Linked lists</a></td>
-
-<td><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a></td>
-
-<button type="button" id="week_7_toggle" class="week_control_button">Week 7 (6-Mar to 10-Mar)</button>
+<button type="button" id="week_7_toggle" class="week_control_button">Week 7 (9-Oct to 13-Oct)</button>
 <div id="week_7" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 19 (6-Mar)</th>
-      <th>Day 20 (8-Mar)</th>
-      <th>Day 21 (10-Mar)</th>
+      <th>Day 18 (9-Oct)</th>
+      <th>Day 19 (11-Oct)</th>
+      <th>Day 20 (13-Oct)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td>N/A</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42'>More Linked lists</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td>N/A</td>
+      <td><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td>N/A</td>
+      <td><a href='questions/day17.html'>Day 18</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='assign/midterm.html'>Midterm Project</a></td>
-      <td><a href='assign/midterm.html'>Midterm Project</a></td>
-      <td><a class='external' target='_blank' href='https://www.gradescope.com/'>Midterm Exam (on Gradescope)</a></td>
+      <td><a href='exercise/ex17.html'>Exercise 17</a></td>
+      <td>Midterm Project</td>
+      <td>Midterm Project</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
+      <td><a href='resources/MidtermReview.pdf'>Midterm Review Solutions</a><br><a href='resources/Midterm-Fall2019.pdf'>Fall 2019 Midterm Solutions</a></td>
       <td></td>
       <td><a href='resources/MidtermReview-solutions.pdf'>Midterm Review Solutions</a><br><a href='resources/Midterm-Fall2019-solutions.pdf'>Fall 2019 Midterm Solutions</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td></td>
-      <td><a href='slides/notes/sp23_day20_sec03.pdf'>Day 20 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day20_sec04.pdf'>Day 20 Notes (Sec 04)</a></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
+
+<!--
 <button type="button" id="week_8_toggle" class="week_control_button">Week 8 (13-Mar to 17-Mar)</button>
 <div id="week_8" class="collapsible">
 <table>
