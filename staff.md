@@ -189,7 +189,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/dayyan.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/dayann.jpg">
   <div class="details">
    <span class="name_and_role">Dayann D’almeida</span><br>
    Email: <a href="mailto:dkouako1@jhu.edu">dkouako1@jhu.edu</a><br>
@@ -201,7 +201,7 @@ See the CA office hours page for the CA office hours schedule.
 <div class="card_container">
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/oriel.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
   <div class="details">
    <span class="name_and_role">Oriel Savir</span><br>
    Email: <a href="mailto:osavir1@jhu.edu">osavir1@jhu.edu</a><br>
