@@ -57,7 +57,7 @@ category: "staff"
 <div class="card_container">
 
 <div class="card">
-  <img alt="Chloe Donelan" src="{{site.baseurl}}/img/staffpix/chloed.jpg">
+  <img alt="Chloe Donelan" src="{{site.baseurl}}/img/staffpix/chloe.jpg">
   <div class="details">
    <span class="name_and_role">Chloe Donelan</span><br>
    Email: <a href="mailto:cdonela1@jhu.edu">cdonela1@jhu.edu</a><br>
@@ -141,7 +141,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/Yongjae.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/yongjae.jpg">
   <div class="details">
    <span class="name_and_role">Yongjae Lee</span><br>
    Email: <a href="mailto:ylee207@jhu.edu">ylee207@jhu.edu</a><br>
@@ -157,7 +157,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/zeyn.jpg">
   <div class="details">
    <span class="name_and_role">Zeyn Schweyk</span><br>
    Email: <a href="mailto:zschwey1@jhu.edu">zschwey1@jhu.edu</a><br>
