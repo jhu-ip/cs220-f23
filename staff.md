@@ -91,7 +91,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/katharine.png">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/katharine.jpg">
   <div class="details">
    <span class="name_and_role">Katharine Durbin</span><br>
    Email: <a href="mailto:kdurbin1@jhu.edu">kdurbin1@jhu.edu</a><br>
@@ -99,7 +99,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/kit.jpeg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/kit.jpg">
   <div class="details">
    <span class="name_and_role">Kit Ao</span><br>
    Email: <a href="mailto:mao2@jhu.edu">mao2@jhu.edu</a><br>
@@ -117,7 +117,7 @@ See the CA office hours page for the CA office hours schedule.
 <div class="card_container">
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/prab.png">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/prab.jpg">
   <div class="details">
    <span class="name_and_role">Prabuddha Dastidar</span><br>
    Email: <a href="mailto:pghoshd1@jhu.edu">pghoshd1@jhu.edu</a><br>
@@ -157,7 +157,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/zeyn.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/zeyn.png">
   <div class="details">
    <span class="name_and_role">Zeyn Schweyk</span><br>
    Email: <a href="mailto:zschwey1@jhu.edu">zschwey1@jhu.edu</a><br>
@@ -173,7 +173,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/genevieve.jpeg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/genevieve.jpg">
   <div class="details">
    <span class="name_and_role">Genevieve Koffman</span><br>
    Email: <a href="mailto:gkoffma1@jhu.edu">gkoffma1@jhu.edu</a><br>
@@ -211,7 +211,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/sofia.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/sofia.PNG">
   <div class="details">
    <span class="name_and_role">Sofia Floody</span><br>
    Email: <a href="mailto:sfloody1@jhu.edu">sfloody1@jhu.edu</a><br>
