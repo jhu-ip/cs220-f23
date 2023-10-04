@@ -91,7 +91,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/katharine.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/katharine.JPG">
   <div class="details">
    <span class="name_and_role">Katharine Durbin</span><br>
    Email: <a href="mailto:kdurbin1@jhu.edu">kdurbin1@jhu.edu</a><br>
@@ -149,7 +149,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="Katharine Durbin" src="{{site.baseurl}}/img/staffpix/sheila.jpg">
+  <img alt="Katharine Durbin" src="{{site.baseurl}}/img/staffpix/sheila.JPG">
   <div class="details">
    <span class="name_and_role">Sheila Iyer</span><br>
    Email: <a href="mailto:siyer20@jhu.edu">siyer20@jhu.edu</a><br>
@@ -181,7 +181,7 @@ See the CA office hours page for the CA office hours schedule.
 </div>
 
 <div class="card">
-  <img alt="photo" src="{{site.baseurl}}/img/staffpix/jinhong.jpg">
+  <img alt="photo" src="{{site.baseurl}}/img/staffpix/jinhong.JPG">
   <div class="details">
    <span class="name_and_role">Jinhong Ling</span><br>
    Email: <a href="mailto:jlin177@jhu.edu">jlin177@jhu.edu</a><br>
