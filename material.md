@@ -342,37 +342,36 @@ the materials for that week.
 </table>
 </div>
 
-<!--
-<button type="button" id="week_8_toggle" class="week_control_button">Week 8 (13-Mar to 17-Mar)</button>
+<button type="button" id="week_8_toggle" class="week_control_button">Week 8 (16-Oct to 20-Oct)</button>
 <div id="week_8" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 22 (13-Mar)</th>
-      <th>Day 23 (15-Mar)</th>
-      <th>Day 24 (17-Mar)</th>
+      <th>Day 21 (16-Oct)</th>
+      <th>Day 22 (18-Oct)</th>
+      <th>Day 23 (20-Oct)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
+      <td>Midterm Exam</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb'>Introduction to C++</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f'>C++ Strings</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <td>Midterm Exam</td>
       <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a></td>
-      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td>
-      <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
+      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td> 
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
+      <td>N/A</td>
       <td><a href='questions/day22.html'>Day 22</a></td>
       <td><a href='questions/day23.html'>Day 23</a></td>
-      <td><a href='questions/day24.html'>Day 24</a></td>
-    </tr>
+      </tr>
     <tr>
       <td>Exercise</td>
       <td>N/A</td>
@@ -385,15 +384,16 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day22_sec03.pdf'>Day 22 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day22_sec04.pdf'>Day 22 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day23_sec03.pdf'>Day 23 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day23_sec04.pdf'>Day 23 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day24_sec03.pdf'>Day 24 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day24_sec04.pdf'>Day 24 Notes (Sec 04)</a></td>
-    </tr>
   </tbody>
 </table>
 </div>
+
+<!-- 
+
+<td><a class='external' target='_blank' href=''>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href=''>STL Algorithms</a></td>
+
+<td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
+
 <button type="button" id="week_9_toggle" class="week_control_button">Week 9 (27-Mar to 31-Mar)</button>
 <div id="week_9" class="collapsible">
 <table>
