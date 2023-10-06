@@ -358,25 +358,25 @@ the materials for that week.
       <td>Videos</td>
       <td>Midterm Exam</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2760c264-312d-49f2-9e43-ae2300279acb'>Introduction to C++</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=954ea030-61b3-482d-96e8-ae2300279a4f'>C++ Strings</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a></td>
+      <td>Fall Break (no class)!</td>
     </tr>
     <tr>
       <td>Slides</td>
       <td>Midterm Exam</td>
       <td><a href='slides/day22_intro_cpp.pdf'>Introduction to C++</a><br><a href='slides/day22_cpp_strings.pdf'>C++ Strings</a></td>
-      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td> 
+      <td>N/A</td> 
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td>N/A</td>
       <td><a href='questions/day22.html'>Day 22</a></td>
-      <td><a href='questions/day23.html'>Day 23</a></td>
+      <td>N/A</td>
       </tr>
     <tr>
       <td>Exercise</td>
       <td>N/A</td>
-      <td><a href='exercise/ex23.html'>Exercise 23</a></td>
-      <td><a href='exercise/ex24.html'>Exercise 24</a></td>
+      <td><a href='exercise/ex23.html'>Exercise 22</a></td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -389,6 +389,9 @@ the materials for that week.
 </div>
 
 <!-- 
+<a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a>
+
+<a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a>
 
 <td><a class='external' target='_blank' href=''>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href=''>STL Algorithms</a></td>
 
