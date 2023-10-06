@@ -350,7 +350,7 @@ the materials for that week.
       <th></th>
       <th>Day 21 (16-Oct)</th>
       <th>Day 22 (18-Oct)</th>
-      <th>Day 23 (20-Oct)</th>
+      <th>Fall Break (20-Oct)</th>
     </tr>
   </thead>
   <tbody>
