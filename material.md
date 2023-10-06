@@ -375,7 +375,7 @@ the materials for that week.
     <tr>
       <td>Exercise</td>
       <td>N/A</td>
-      <td><a href='exercise/ex23.html'>Exercise 22</a></td>
+      <td>Midtem Project</td>
       <td>N/A</td>
     </tr>
     <tr>
