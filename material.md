@@ -402,7 +402,7 @@ the materials for that week.
   <tbody>
     <tr>
       <td>Videos</td>
-      <a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562'>C++ I/O stream and stringstream</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599'>Intro to Object Oriented Programming</a></td>
     </tr>
