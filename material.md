@@ -408,7 +408,7 @@ the materials for that week.
     </tr>
     <tr>
       <td>Slides</td>
-      <a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a>
+      <td><a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a></td>
       <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
       <td><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a></td>
     </tr>
