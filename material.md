@@ -388,50 +388,41 @@ the materials for that week.
 </table>
 </div>
 
-<!-- 
-<a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a>
-
-<a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a>
-
-<td><a class='external' target='_blank' href=''>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href=''>STL Algorithms</a></td>
-
-<td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
-
 <button type="button" id="week_9_toggle" class="week_control_button">Week 9 (27-Mar to 31-Mar)</button>
 <div id="week_9" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 25 (27-Mar)</th>
-      <th>Day 26 (29-Mar)</th>
-      <th>Day 27 (31-Mar)</th>
+      <th>Day 23 (23-Oct)</th>
+      <th>Day 24 (25-Oct)</th>
+      <th>Day 25 (27-Oct)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
+      <a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04905da6-f193-4a6e-9f3e-ae2300279736'>Introduction to STL and templates</a>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c12342a6-6af3-4859-9da6-ae2300279661'>STL Containers - map, pair, and tuple</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c08d312c-963d-485b-84bf-ae23002796be'>STL Algorithms</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562'>C++ I/O stream and stringstream</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599'>Intro to Object Oriented Programming</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516'>References</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc'>Dynamic Memory Allocation</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431'>C++ Classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3'>Default Constructors</a></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <a href='slides/day23_stl_templates.pdf'>Introduction to STL and templates</a>
+      <td><a href='slides/day24_more_stl_containers.pdf'>STL Containers - map, pair, and tuple</a><br><a href='slides/day24_stl_algorithms.pdf'>STL Algorithms</a></td>
       <td><a href='slides/day25_cpp_file_io_stringstream.pdf'>C++ I/O stream and stringstream</a><br><a href='slides/day25_intro_to_oo.pdf'>Intro to Object Oriented Programming</a></td>
-      <td><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
-      <td><a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
+      <td><a href='questions/day23.html'>Day 23</a></td>
+      <td><a href='questions/day24.html'>Day 24</a></td>
       <td><a href='questions/day25.html'>Day 25</a></td>
-      <td><a href='questions/day26.html'>Day 26</a></td>
-      <td><a href='questions/day27.html'>Day 27</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
+      <td><a href='exercise/ex23.html'>Exercise 23</a></td>
+      <td><a href='exercise/ex24.html'>Exercise 24</a></td>
       <td><a href='exercise/ex25.html'>Exercise 25</a></td>
-      <td><a href='exercise/ex26.html'>Exercise 26</a></td>
-      <td><a href='exercise/ex27.html'>Exercise 27</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -439,15 +430,17 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day25_sec01.pdf'>Day 25 Notes (Sec 01)</a><br><a href='slides/notes/sp23_day25_sec03.pdf'>Day 25 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day25_sec04.pdf'>Day 25 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day26_sec03.pdf'>Day 26 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day26_sec04.pdf'>Day 26 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day27_sec03.pdf'>Day 27 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day27_sec04.pdf'>Day 27 Notes (Sec 04)</a></td>
-    </tr>
   </tbody>
 </table>
 </div>
+
+<!--
+      <td><a href='slides/day26_cpp_reference.pdf'>References</a><br><a href='slides/day26_dynamic_memory_allocation.pdf'>Dynamic Memory Allocation</a></td>
+      <td><a href='slides/day27_cpp_classes.pdf'>C++ Classes</a><br><a href='slides/day27_default_constructor.pdf'>Default Constructors</a></td>
+
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4fcd7033-f754-429f-b55b-ae230027a516'>References</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d9978853-6c9b-4cc3-b62d-ae230027a4cc'>Dynamic Memory Allocation</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431'>C++ Classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3'>Default Constructors</a></td>
+
 <button type="button" id="week_10_toggle" class="week_control_button">Week 10 (3-Apr to 7-Apr)</button>
 <div id="week_10" class="collapsible">
 <table>
