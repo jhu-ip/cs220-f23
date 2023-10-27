@@ -480,46 +480,41 @@ the materials for that week.
 </table>
 </div>
 
-<!-- 
-
-<td><a href='slides/day29_function_overloading.pdf'>Function overloading</a><br><a href='slides/day29_operator_overloading.pdf'>Operator overloading</a></td>
-<td><a href='slides/day30_initialization_assignments.pdf'>Initialization and assignment</a><br><a href='slides/day30_rule_of_3.pdf'>Rule of 3</a></td>
-
-<button type="button" id="week_11_toggle" class="week_control_button">Week 11 (10-Apr to 14-Apr)</button>
+<button type="button" id="week_11_toggle" class="week_control_button">Week 11 (6-Nov to 10-Nov)</button>
 <div id="week_11" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 31 (10-Apr)</th>
-      <th>Day 32 (12-Apr)</th>
-      <th>Day 33 (14-Apr)</th>
+      <th>Day 29 (6-Nov)</th>
+      <th>Day 30 (8-Nov)</th>
+      <th>Day 31 (10-Nov)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65'>Function overloading</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e'>Operator overloading</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93'>Initialization and assignment</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3'>Rule of 3</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6'>Template functions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79'>Template classes</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea'>Inheritance</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28'>Polymorphism</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe'>Dynamic dispatch</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986'>Function hiding and abstract classes</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d6fdb70-910c-4823-b4a0-ae23002797a1'>Virtual destructors</a></td>
     </tr>
     <tr>
       <td>Slides</td>
+      <td><a href='slides/day29_function_overloading.pdf'>Function overloading</a><br><a href='slides/day29_operator_overloading.pdf'>Operator overloading</a></td>
+      <td><a href='slides/day30_initialization_assignments.pdf'>Initialization and assignment</a><br><a href='slides/day30_rule_of_3.pdf'>Rule of 3</a></td>
       <td><a href='slides/day31_template_functions.pdf'>Template functions</a><br><a href='slides/day31_template_classes.pdf'>Template classes</a></td>
-      <td><a href='slides/day32_inheritance.pdf'>Inheritance</a><br><a href='slides/day32_polymorphism.pdf'>Polymorphism</a></td>
-      <td><a href='slides/day33_dynamic_dispatch.pdf'>Dynamic dispatch</a><br><a href='slides/day33_function_hiding_abstract_classes.pdf'>Function hiding and abstract classes</a><br><a href='slides/day33_virtual_destructors.pdf'>Virtual destructors</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day31.html'>Day 31</a></td>
-      <td><a href='questions/day32.html'>Day 32</a></td>
-      <td><a href='questions/day33.html'>Day 33</a></td>
+      <td><a href='questions/day29.html'>Day 31</a></td>
+      <td><a href='questions/day30.html'>Day 32</a></td>
+      <td><a href='questions/day31.html'>Day 33</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex31.html'>Exercise 31</a></td>
-      <td><a href='exercise/ex32.html'>Exercise 32</a></td>
-      <td><a href='exercise/ex33.html'>Exercise 33</a></td>
+      <td><a href='exercise/ex29.html'>Exercise 31</a></td>
+      <td><a href='exercise/ex30.html'>Exercise 32</a></td>
+      <td><a href='exercise/ex31.html'>Exercise 33</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -527,15 +522,11 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day31_sec03.pdf'>Day 31 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day31_sec04.pdf'>Day 31 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day32_sec03.pdf'>Day 32 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day32_sec04.pdf'>Day 32 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day33_sec03.pdf'>Day 33 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day33_sec04.pdf'>Day 33 Notes (Sec 04)</a></td>
-    </tr>
   </tbody>
 </table>
 </div>
+
+<!--
 <button type="button" id="week_12_toggle" class="week_control_button">Week 12 (17-Apr to 21-Apr)</button>
 <div id="week_12" class="collapsible">
 <table>
