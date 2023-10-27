@@ -506,15 +506,15 @@ the materials for that week.
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day29.html'>Day 31</a></td>
-      <td><a href='questions/day30.html'>Day 32</a></td>
-      <td><a href='questions/day31.html'>Day 33</a></td>
+      <td><a href='questions/day29.html'>Day 29</a></td>
+      <td><a href='questions/day30.html'>Day 30</a></td>
+      <td><a href='questions/day31.html'>Day 31</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex29.html'>Exercise 31</a></td>
-      <td><a href='exercise/ex30.html'>Exercise 32</a></td>
-      <td><a href='exercise/ex31.html'>Exercise 33</a></td>
+      <td><a href='exercise/ex29.html'>Exercise 29</a></td>
+      <td><a href='exercise/ex30.html'>Exercise 30</a></td>
+      <td><a href='exercise/ex31.html'>Exercise 31</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
