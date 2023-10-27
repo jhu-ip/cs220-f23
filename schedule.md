@@ -19,4 +19,4 @@ Assignment/Exam | Date
 [Homework 3](assign/hw3.html) | Due Wed, Sep 27th
 [Homework 4](https://www.gradescope.com/courses/584905/assignments/3414944/) | Due Wed, Oct 4th
 [Midterm Project](assign/midterm.html) | Due Wed, Oct 25th
-[Homework 5](assign/hw5.html) | Due Friday, Oct 27th
+[Homework 5](assign/hw5.html) | Due Friday, Nov 3rd
