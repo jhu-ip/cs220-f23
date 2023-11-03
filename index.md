@@ -44,7 +44,7 @@ Gradescope and recieve feedback and your work in there. Regrade requests
 can be made and are processed on Gradescope as well. You can join Gradescope course page using the entry code **B2E25Y**.
 
 ## News
-* **Nov 3** — [HW6](https://www.gradescope.com/courses/584905/assignments/3630043/) is posted!
+* **November 3** — [HW6](https://www.gradescope.com/courses/584905/assignments/3630043/) is posted!
 * **October 27** — [HW5](assign/hw5) is posted!
 * **October 6** — [Midterm Project](assign/midterm) is posted!
 * **September 27** — [HW4](https://www.gradescope.com/courses/584905/assignments/3414944/) is posted!
