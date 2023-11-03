@@ -20,3 +20,4 @@ Assignment/Exam | Date
 [Homework 4](https://www.gradescope.com/courses/584905/assignments/3414944/) | Due Wed, Oct 4th
 [Midterm Project](assign/midterm.html) | Due Wed, Oct 25th
 [Homework 5](assign/hw5.html) | Due Friday, Nov 3rd
+[Homework 6](https://www.gradescope.com/courses/584905/assignments/3630043/) | Due Friday, Nov 10th
