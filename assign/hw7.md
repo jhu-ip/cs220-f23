@@ -10,7 +10,7 @@ title: Homework 7
 <div class='content'>
 <ul>
 <li>You are expected to work individually.</li>
-<li><b>Due: Friday April 14th at 11pm EDT (Baltimore time).</b></li>
+<li><b>Due: Friday November 17th at 11pm EDT (Baltimore time).</b></li>
 <li>This assignment is worth 70 points.</li>
 <li>This is the last assignment for which you can use late days!</li>
 </ul>
