@@ -578,50 +578,42 @@ the materials for that week.
 </table>
 </div>
 
-<!--
 
-<td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00c8e477-aa8e-4357-bd0e-ae230027992c'>Enumerated Types</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e2654d0-197a-49fb-8d90-ae23002798b8'>Exceptions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53afa435-461a-4814-bfc2-ae2300279850'>Customized Exceptions</a></td>
-      <td></td>
-
-
-<td><a href='slides/day35_enum.pdf'>Enumerated Types</a><br><a href='slides/day35_exceptions.pdf'>Exceptions</a><br><a href='slides/day35_customized_exceptions.pdf'>Customized Exceptions</a></td>
-      <td></td>
-
-<button type="button" id="week_13_toggle" class="week_control_button">Week 13 (24-Apr to 28-Apr)</button>
+<button type="button" id="week_13_toggle" class="week_control_button">Week 13 (27-Nov to 1-Dec)</button>
 <div id="week_13" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 37 (24-Apr)</th>
-      <th>Day 38 (26-Apr)</th>
-      <th>Day 39 (28-Apr)</th>
+      <th>Day 35 (27-Nov)</th>
+      <th>Day 36 (29-Nov)</th>
+      <th>Day 37 (1-Dec)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=737a8372-4317-47c5-8492-ae23002795c1&query=iterator'>Iterators</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47'>Lambdas</a></td>
+      <td><a class='external' target='_blank' href=''>Enumerated Types</a><br><a class='external' target='_blank' href=''>Exceptions</a><br><a class='external' target='_blank' href=''>Customized Exceptions</a></td>
       <td></td>
+      <td><a class='external' target='_blank' href=''>Iterators</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day36_iterators.pdf'>Iterators</a></td>
-      <td><a href='slides/day37_lambdas.pdf'>Lambdas</a></td>
+      <td><a href='slides/day35_enum.pdf'>Enumerated Types</a><br><a href='slides/day35_exceptions.pdf'>Exceptions</a><br><a href='slides/day35_customized_exceptions.pdf'>Customized Exceptions</a></td>
       <td></td>
+      <td><a href='slides/day36_iterators.pdf'>Iterators</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day37.html'>Day 37</a></td>
-      <td><a href='questions/day38.html'>Day 38</a></td>
+      <td><a href='questions/day35.html'>Day 35</a></td>
       <td></td>
+       <td><a href='questions/day37.html'>Day 37</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
+      <td><a href='exercise/ex35.html'>Exercise 35</a></td>
+      <td>Work on final project</td>
       <td><a href='exercise/ex37.html'>Exercise 37</a></td>
-      <td>Work on final project</td>
-      <td>Work on final project</td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -629,15 +621,14 @@ the materials for that week.
       <td></td>
       <td></td>
     </tr>
-    <tr>
-      <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day37_sec03.pdf'>Day 37 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day37_sec04.pdf'>Day 37 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day38_sec03.pdf'>Day 38 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day38_sec04.pdf'>Day 38 Notes (Sec 04)</a></td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 </div>
+<!--
+ <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47'>Lambdas</a></td>
+      <td></td>
+<td><a href='slides/day37_lambdas.pdf'>Lambdas</a></td>
+      <td></td>
 -->
 <script type="text/javascript">
   // Create and register a click handler for button clicks to expand/contract
