@@ -652,7 +652,7 @@ the materials for that week.
       <td>Recap<br>Questions</td>
       <td><a href='questions/day38.html'>Day 35</a></td>
       <td>N/A</td>
-       <td>N/A</a></td>
+      <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
