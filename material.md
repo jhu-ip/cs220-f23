@@ -624,12 +624,52 @@ the materials for that week.
   </tbody>
 </table>
 </div>
-<!--
- <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47'>Lambdas</a></td>
+<button type="button" id="week_14_toggle" class="week_control_button">Week 14 (4-Dec to 8-Dec)</button>
+<div id="week_14" class="collapsible">
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Day 38 (4-Dec)</th>
+      <th>Day 39 (6-Dec)</th>
+      <th>Day 40 (8-Dec)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Videos</td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47'>Lambdas</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Slides</td>
+      <td><a href='slides/day37_lambdas.pdf'>Lambdas</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Recap<br>Questions</td>
+      <td><a href='questions/day38.html'>Day 35</a></td>
+      <td>N/A</td>
+       <td>N/A</a></td>
+    </tr>
+    <tr>
+      <td>Exercise</td>
+      <td>Work on final project</td>
+      <td>Work on final project</td>
+      <td>Work on final project</td>
+    </tr>
+    <tr>
+      <td>Additional<br>Resources</td>
       <td></td>
-<td><a href='slides/day37_lambdas.pdf'>Lambdas</a></td>
       <td></td>
--->
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <script type="text/javascript">
   // Create and register a click handler for button clicks to expand/contract
   // specified content div
