@@ -594,19 +594,19 @@ the materials for that week.
     <tr>
       <td>Videos</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00c8e477-aa8e-4357-bd0e-ae230027992c'>Enumerated Types</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e2654d0-197a-49fb-8d90-ae23002798b8'>Exceptions</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=53afa435-461a-4814-bfc2-ae2300279850'>Customized Exceptions</a></td>
-      <td></td>
+      <td>N/A</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=737a8372-4317-47c5-8492-ae23002795c1'>Iterators</a></td>
     </tr>
     <tr>
       <td>Slides</td>
       <td><a href='slides/day35_enum.pdf'>Enumerated Types</a><br><a href='slides/day35_exceptions.pdf'>Exceptions</a><br><a href='slides/day35_customized_exceptions.pdf'>Customized Exceptions</a></td>
-      <td></td>
+      <td>N/A</td>
       <td><a href='slides/day36_iterators.pdf'>Iterators</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td><a href='questions/day35.html'>Day 35</a></td>
-      <td></td>
+      <td>N/A</td>
        <td><a href='questions/day37.html'>Day 37</a></td>
     </tr>
     <tr>
