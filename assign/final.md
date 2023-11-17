@@ -8,7 +8,7 @@ title: "Final Project"
 <div class='title'>Caution</div>
 <div class='content'>
 <ul>
-<li>You are expected to work in a team of two or three.</li>
+<li>You are expected to work in a team of three.</li>
 <li><strong>Due: Friday Dec 8th at 11pm EDT (Baltimore time).</strong>
 Note: late submissions will not be accepted, please plan accordingly.</li>
 </ul>
@@ -89,14 +89,14 @@ The detailed semantics of the various directives are described below.
 
 To get started on the project, use `git clone` to clone the final project
 repository we have created for you. Also, use `git pull` to make sure that
-your clone of the `cs220-sp23-public` repository is up to date.
+your clone of the `cs220-f23-public` repository is up to date.
 Then, copy the starter files into your final project repository.
 Assuming your current directory is your clone of your team's final project
 repository, you could use the following commands to copy the files:
 
 ```
-cp -r ~/cs220-sp23-public/projects/final/* .
-cp ~/cs220-sp23-public/projects/final/.gitignore .
+cp -r ~/cs220-f23-public/projects/final/* .
+cp ~/cs220-f23-public/projects/final/.gitignore .
 ```
 
 Once you have copied the starter files, use `git add`, `git commit`,
@@ -217,7 +217,7 @@ FillBelow <i>fn_name</i> <i>opacity</i> <i>r</i> <i>g</i> <i>b</i>
 
 The values in a `FillBelow` directive have the same meaning as in a
 `FillAbove` directive.  `FillBelow` indicates that the area below the
-function (where the $$y$$ values are greater than the value of the function)
+function (where the $$y$$ values are lower than the value of the function)
 should be filled.
 
 The `FillBetween` directive has the following form:
