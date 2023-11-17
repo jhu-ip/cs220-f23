@@ -22,3 +22,4 @@ Assignment/Exam | Date
 [Homework 5](assign/hw5.html) | Due Friday, Nov 3rd
 [Homework 6](https://www.gradescope.com/courses/584905/assignments/3630043/) | Due Friday, Nov 10th
 [Homework 7](assign/hw7.html) | Due Friday, Nov 17th
+[Final Project](assign/final.html) | Due Friday, Dec 8th
